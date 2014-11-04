@@ -1,3 +1,3 @@
 cs579-project
 =============
-Yixuan Zhao   Alaa
+Member:Yixuan Zhao   Alaa Ayach
