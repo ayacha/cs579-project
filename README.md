@@ -31,8 +31,7 @@ cs579project.ipynb
 	The code of this project.
 picture
 	Store all the picture show in the presentation.
-pickle.zip
-	All the pickle file in the
+
 
 Data
 =============
